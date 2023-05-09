@@ -1,5 +1,13 @@
-import File from "./File"
+import Navbar from "./Navbar";
+import Hero from "./Hero";
+import HeroCards from "./HeroCards";
+import Food from "./Food";
+import Category from "./Category";
 
 export {
-    File
+    Navbar,
+    Hero,
+    HeroCards,
+    Food,
+    Category
 }

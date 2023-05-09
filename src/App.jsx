@@ -1,8 +1,12 @@
-import { File } from './components'
+import { Navbar, Hero, HeroCards, Food, Category } from './components'
 
 const App = () => (
     <div>
-      <File />
+      <Navbar />
+      <Hero />
+      <HeroCards />
+      <Food />
+      <Category />
     </div>
 )
 
